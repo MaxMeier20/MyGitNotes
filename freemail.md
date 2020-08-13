@@ -23,53 +23,53 @@ This is for sending / receiving mails and keeping them. For one of activities I 
 ## Providers
 *This will start as a selection of names with c&p web comments - at the end I will decide on the tracked criteria*
 
-- ###AOL
+###AOL
     - Customized list views of mail
     - Customizable Panel
 
-- (Fastmail)
+(Fastmail)
     - only 25MB storage
 
-- ###HubSpot
+###HubSpot
     - Personalized email designs
     - Claims Privacy and Data Protection
     - Based on an CRM
 
-- ###Inbox.com
+###Inbox.com
     - 5GB Storage
     - Old School Interface
     - Allows RSS subscriptions
 
-- ###Mailfence
+###Lycos
+    - No Inbox ads
+    - 3GB storage
+
+###Mailfence
     - 500MB Storage
     -  POP / IMAP only in paid plan
 
-- (Posteo)
+(Posteo)
     - to expensive for this purpose (1€ per month), but generally a highly interesting product
 
-- ###Proton Mail
+###Proton Mail
     - No personal information is required in order to create an email account
     - Send and receive emails that are secured with end-to-end encryption
     - 500MB Storage
     - Limit of 150 Mails daily
     - Only three folders
 
-- ###Lycos
-    - No Inbox ads
-    - 3GB storage
-
-- ###Tutanota
+###Tutanota
     - Ad Free
     - "secure emails"
     
-- ###Yandex
+###Yandex
     - Postpone Message functionality
     - Russian service
     - 10GB Storage
     - Calendar
     - .eml Export
 
-- ###Zoho
+###Zoho
     - e-discovery functionality
     - comment functionality
     - Based on a CRM / Productivity Suite
