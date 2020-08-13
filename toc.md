@@ -12,5 +12,9 @@
 ## Hardware
 - [Printers for Ubuntu Mate 20.04](printersubuntumate.md)
 
+## Misc
+
+- [Free Mail Provider Selection](freemail.md)
+
 
 
