@@ -14,7 +14,7 @@
 
   #### :arrow_right: CPDF
 
-   *Mainly unneeded - does all the things a full blown pdf editor does (encrypting, merging, resizing, splitting...) via the CLI*  
+  *Mainly unneeded - does all the things a full blown pdf editor does (encrypting, merging, resizing, splitting...) via the CLI*
 
   #### :arrow_right: Pandoc
    *A 'swiss army knife' for document conversions, with some limitations on especially pdf (can only convert to and needs another program as engine) - the other CLI tools are all   aimed at pdf due to this limitation*
@@ -73,5 +73,5 @@
 ### TexNet32
 **TexNet32 provides users with special tools designed to assist in writing conventional abstracts. It is an hybrid abstracting system in which some tasks are performed by human abstractors and others by software**
   
-  *Kept for historical purposes [Resoomer](https://resoomer.com/en/),[SMMRY](https://smmry.com/) and related online services are preferred to process **public** information*
+  <p> *Kept for historical purposes [Resoomer](https://resoomer.com/en/),[SMMRY](https://smmry.com/) and related online services are preferred to process **public** information*</p> 
 
