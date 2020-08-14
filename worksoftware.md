@@ -21,16 +21,17 @@
 The userguide is available [here](https://pandoc.org/MANUAL.html), due to frequent updates the local version is authorative
 
 **Used For Creating / Converting**
-to | from
-____ | _____
+to    | from
+----- | -----
 .docx |  .csv
 .epub | .docx
 .html | .epub
 .odt | .html
 .pptx | .odt
-.rtf |
+.rtf | .txt
 .txt |
 .pdf\* | 
+
 \*(only in specific circumstances, if the other tools don't cut it)
 
 
