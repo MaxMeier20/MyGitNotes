@@ -1,5 +1,5 @@
 #  My Personal Journey
-** Learning Git, GitHub and Markdown **
+**Learning Git, GitHub and Markdown**
 
 > This repository is mainly intended to play around and get comfortable with the aforementioned  concepts
 
