@@ -12,6 +12,9 @@
 
 ### CLI Tools
 
+### CPDF
+*Mainly unneeded - does all the things a full blown pdf editor does (encrypting, merging, resizing, splitting...) via the CLI*  
+
 #### Pandoc
 *A 'swiss army knife' for document conversions, with some limitations on especially pdf (can only convert to and needs another program as engine) - the other CLI tools are all aimed at pdf due to this limitation*
 
@@ -25,7 +28,7 @@ The userguide is available [here](https://pandoc.org/MANUAL.html), due to freque
 * .pptx
 * .rtf
 * .txt
-* .pdf (only in specific circumstances, if the other tools don't cut it)
+* *.pdf* (only in specific circumstances, if the other tools don't cut it)
 
 **from**
 * .csv
@@ -53,3 +56,7 @@ Mainly used to directly create pdf from websites, also useful as pdfengine for p
 **Often used commands**
 
 > wkhtmltopdf http://google.com google.pdf
+
+#### xpdftools
+*collection of simple CLI tools to convert pdf in other formats or stripping out information (attachments, images, fonts) from them*
+
