@@ -20,22 +20,19 @@
 
 The userguide is available [here](https://pandoc.org/MANUAL.html), due to frequent updates the local version is authorative
 
-**Used For Creating**
-* .docx
-* .epub
-* .html
-* .odt
-* .pptx
-* .rtf
-* .txt
-* *.pdf* (only in specific circumstances, if the other tools don't cut it)
+**Used For Creating / Converting**
+to | from
+____ | _____
+.docx |  .csv
+.epub | .docx
+.html | .epub
+.odt | .html
+.pptx | .odt
+.rtf |
+.txt |
+.pdf\* | 
+\*(only in specific circumstances, if the other tools don't cut it)
 
-**from**
-* .csv
-* .docx
-* .epub
-* .html
-* .odt
 
 **Often used commands***
 
