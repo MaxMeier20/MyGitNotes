@@ -41,15 +41,15 @@
 
        Create .docx fom website
        
-   `pandoc -f html -t docx https://google.com  -s -o test.docx`
+    `pandoc -f html -t docx https://google.com  -s -o test.docx`
 
         Create one filetype and filename fromt other filetype and filename
         
-        `pandoc -o output.html input.txt`
+          `pandoc -o output.html input.txt`
 
        Control the conversion       
        
-        `pandoc -f html -t rtf hello.html`
+          `pandoc -f html -t rtf hello.html`
 
         `-s` is needed to create full fledged "standalone" files (including the headers), otherwise only fragments are produced
 
