@@ -73,5 +73,5 @@
 ### TexNet32
 **TexNet32 provides users with special tools designed to assist in writing conventional abstracts. It is an hybrid abstracting system in which some tasks are performed by human abstractors and others by software**
   
-  *Kept for historical purposes [SMMRY](https://smmry.com/) and related online services are preferred to process **public** information*
+  *Kept for historical purposes [Resoomer](https://resoomer.com/en/),[SMMRY](https://smmry.com/) and related online services are preferred to process **public** information*
 
