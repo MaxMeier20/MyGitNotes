@@ -12,11 +12,11 @@
 ----
 ### CLI Tools
 
-  <h4> &nbsp;&nbsp;&nbsp;&nbsp; CPDF </h4>
+   <h4> &nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: CPDF </h4>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;*Mainly unneeded - does all the things a full blown pdf editor does (encrypting, merging, resizing, splitting...) via the CLI*
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mainly unneeded - does all the things a full blown pdf editor does (encrypting, merging, resizing, splitting...) via the CLI*
 
-  #### :arrow_right: Pandoc
+  ####  Pandoc
    *A 'swiss army knife' for document conversions, with some limitations on especially pdf (can only convert to and needs another program as engine) - the other CLI tools are all   aimed at pdf due to this limitation*
 
    The userguide is available [here](https://pandoc.org/MANUAL.html), due to frequent updates the local version is authorative
