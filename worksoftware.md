@@ -12,11 +12,11 @@
 ----
 ### CLI Tools
 
-       :arrow_right: ####CPDF
+####        :arrow_right: CPDF
 
       *Mainly unneeded - does all the things a full blown pdf editor does (encrypting, merging, resizing, splitting...) via the CLI*
 
-      :arrow_right: ####Pandoc
+####       :arrow_right: Pandoc
   
       *A 'swiss army knife' for document conversions, with some limitations on especially pdf (can only convert to and needs another program as engine) - the other CLI tools are all   aimed at pdf due to this limitation*
 
@@ -51,11 +51,11 @@
         `-s` is needed to create full fledged "standalone" files (including the headers), otherwise only fragments are produced
 
   
-     :arrow_right: ####QPDF
+####      :arrow_right: QPDF
   
       *Same as CPDF - Mainly unneeded, but has a nice "QDF" mode, which allows editing of .pdf files in an text editor*
   
-      :arrow_right: ####wkhtmltox
+      :arrow_right: #### wkhtmltox
   
       Mainly used to directly create pdf from websites, also useful as pdfengine for pandoc. The documentation is available [here](https://wkhtmltopdf.org/docs.html)
 
@@ -63,7 +63,7 @@
 
    > wkhtmltopdf http://google.com google.pdf
 
-      :arrow_right: xpdftools
+####       :arrow_right: xpdftools
    
        *collection of simple CLI tools to convert pdf in other formats or stripping out information (attachments, images, fonts) from them*
 
