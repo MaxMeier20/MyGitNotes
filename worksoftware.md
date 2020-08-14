@@ -18,22 +18,22 @@
 The userguide is available [here](https://pandoc.org/MANUAL.html), due to frequent updates the local version is authorative
 
 **Used For Creating**
->.docx
->.epub
->.html
->.odt
->.pptx
->.rtf
->.txt
+* .docx
+* .epub
+* .html
+* .odt
+* .pptx
+* .rtf
+* .txt
 
 ~~.pdf~~ (only in specific circumstances, if the other tools don't cut it)
 
 **from**
->.csv
->.docx
->.epub
->.html
->.odt
+* .csv
+* .docx
+* .epub
+* .html
+* .odt
 
 **Often used commands***
 
@@ -53,4 +53,4 @@ Mainly used to directly create pdf from websites, also useful as pdfengine for p
 
 **Often used commands**
 
-wkhtmltopdf http://google.com google.pdf
+> wkhtmltopdf http://google.com google.pdf
