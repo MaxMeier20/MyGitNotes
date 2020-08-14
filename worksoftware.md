@@ -12,60 +12,60 @@
 ----
 ### CLI Tools
 
-   <h4> &nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: CPDF </h4>
+       :arrow_right: ####CPDF
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mainly unneeded - does all the things a full blown pdf editor does (encrypting, merging, resizing, splitting...) via the CLI*
+      *Mainly unneeded - does all the things a full blown pdf editor does (encrypting, merging, resizing, splitting...) via the CLI*
 
-  <h4> &nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: Pandoc </h4>
+      :arrow_right: ####Pandoc
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A 'swiss army knife' for document conversions, with some limitations on especially pdf (can only convert to and needs another program as engine) - the other CLI tools are all   aimed at pdf due to this limitation*
+      *A 'swiss army knife' for document conversions, with some limitations on especially pdf (can only convert to and needs another program as engine) - the other CLI tools are all   aimed at pdf due to this limitation*
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The userguide is available [here](https://pandoc.org/MANUAL.html), due to frequent updates the local version is authorative
+       The userguide is available [here](https://pandoc.org/MANUAL.html), due to frequent updates the local version is authorative
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Used For Creating / Converting**
- to    | from
- ----- | -----
- .docx |  .csv
- .epub | .docx
- .html | .epub
- .odt | .html
- .pptx | .odt
- .rtf | .txt
- .txt |
- .pdf\* | 
+      **Used For Creating / Converting**
+  to    | from
+  ----- | -----
+  .docx |  .csv
+  .epub | .docx
+  .html | .epub
+  .odt | .html
+  .pptx | .odt
+  .rtf | .txt
+  .txt |
+  .pdf\* | 
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \*(only in specific circumstances, if the other tools don't cut it)
+      \*(only in specific circumstances, if the other tools don't cut it)
 
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Often used commands***
+       **Often used commands***
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create .docx fom website
+       Create .docx fom website
    > pandoc -f html -t docx https://google.com  -s -o test.docx
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create one filetype and filename fromt other filetype and filename
+        Create one filetype and filename fromt other filetype and filename
    > pandoc -o output.html input.txt
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Control the conversion
+       Control the conversion
    > pandoc -f html -t rtf hello.html
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `-s` is needed to create full fledged "standalone" files (including the headers), otherwise only fragments are produced
+        `-s` is needed to create full fledged "standalone" files (including the headers), otherwise only fragments are produced
 
   
- <h4> &nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: QPDF </h4>
+     :arrow_right: ####QPDF
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Same as CPDF - Mainly unneeded, but has a nice "QDF" mode, which allows editing of .pdf files in an text editor*
+      *Same as CPDF - Mainly unneeded, but has a nice "QDF" mode, which allows editing of .pdf files in an text editor*
   
-  <h4> &nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: wkhtmltox </h4>
+      :arrow_right: ####wkhtmltox
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mainly used to directly create pdf from websites, also useful as pdfengine for pandoc. The documentation is available [here](https://wkhtmltopdf.org/docs.html)
+      Mainly used to directly create pdf from websites, also useful as pdfengine for pandoc. The documentation is available [here](https://wkhtmltopdf.org/docs.html)
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Often used commands**
+       **Often used commands**
 
    > wkhtmltopdf http://google.com google.pdf
 
-  <h4> &nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: xpdftools </h4>
+      :arrow_right: xpdftools
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *collection of simple CLI tools to convert pdf in other formats or stripping out information (attachments, images, fonts) from them*
+       *collection of simple CLI tools to convert pdf in other formats or stripping out information (attachments, images, fonts) from them*
 
 ----
 
@@ -79,3 +79,4 @@
   
 *Kept for historical purposes [Resoomer](https://resoomer.com/en/),[SMMRY](https://smmry.com/) and related online services are preferred to process **public** information* 
 
+###    Nonstandard identation
