@@ -25,8 +25,7 @@ The userguide is available [here](https://pandoc.org/MANUAL.html), due to freque
 * .pptx
 * .rtf
 * .txt
-
-~~.pdf~~ (only in specific circumstances, if the other tools don't cut it)
+* .pdf (only in specific circumstances, if the other tools don't cut it)
 
 **from**
 * .csv
