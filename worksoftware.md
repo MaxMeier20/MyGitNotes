@@ -12,7 +12,7 @@
 
 ### CLI Tools
 
-### CPDF
+#### CPDF
 *Mainly unneeded - does all the things a full blown pdf editor does (encrypting, merging, resizing, splitting...) via the CLI*  
 
 #### Pandoc
