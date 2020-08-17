@@ -20,5 +20,5 @@
 
 - [Software at Work](worksoftware.md)
 
-
+*used as an index*
 
