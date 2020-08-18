@@ -32,3 +32,4 @@
 - My hardware evaluation / comparison lists - Just to list what I consider to buy and have the main pro / cons for me   
 
 Please continue on the [Index](index.md) file,  to see if those *pipe dreams* came through. 
+=======

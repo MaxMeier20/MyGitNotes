@@ -1,4 +1,5 @@
 # My Notes
+*Current idea is to simply serve my notes as rendered .md files via this project page. As usually everything will be written on the master branch and if ok, I will merge the files in this branch. Jekyll will be tested and developed in the other repo*
 
 ## BASH
 
@@ -20,5 +21,5 @@
 
 - [Software at Work](worksoftware.md)
 
-
+=======
 
