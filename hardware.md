@@ -49,3 +49,25 @@ tbd
 * Contrast: 65
 * Gamma: 0
 * Sharpness: 35
+
+## Network
+
+### Access Point: Asus AC66
+
+#### Address
+
+	* IPA.DDR.ESS.IP4 = Sub.Net.Mas.k28
+
+#### Current OS
+
+	* AsusWRT 380.70
+
+### Router: FritzBox Cable 6591
+
+#### Address
+
+	* IPA.DDR.ESS.IP4 = Sub.Net.Mas.k1
+
+#### Current OS
+
+	* FritzOS
