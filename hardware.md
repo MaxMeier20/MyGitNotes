@@ -22,8 +22,8 @@
 	* Webinterface: IPA.DDR.ESS.IP4/admin
 	* DNS Servers Available at: http:// IPA.DDR.ESS.IP4/admin/settings.php
 	* Password: Software Password
-**Including all dependencies and defaults**
 
+**Including all dependencies and defaults:** dropbear, lighthppd, php, python ...
 
 ## Entertainment
 
