@@ -22,7 +22,7 @@
 
 ## Content
 
-**   A _"subject to change"_ list of things I want to store **
+**A _"subject to change"_ list of things I want to store**
 
 - My notes regarding the usage of my  Linux system, especially long bash commands and short scripts
 -  My notes regarding PC games - As I'm often interrupted I take notes  on where I am and what I want to do next. 
@@ -31,4 +31,5 @@
 
 - My hardware evaluation / comparison lists - Just to list what I consider to buy and have the main pro / cons for me   
 
-Please continue on the [TOC](toc.md) file,  to see if those *pipe dreams* came through
+Please continue on the [Index](index.md) file,  to see if those *pipe dreams* came through. 
+=======
