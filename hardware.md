@@ -56,18 +56,18 @@ tbd
 
 #### Address
 
-	* IPA.DDR.ESS.IP4 = Sub.Net.Mas.k28
+* IPA.DDR.ESS.IP4 = Sub.Net.Mas.k28
 
 #### Current OS
 
-	* AsusWRT 380.70
+* AsusWRT 380.70
 
 ### Router: FritzBox Cable 6591
 
 #### Address
 
-	* IPA.DDR.ESS.IP4 = Sub.Net.Mas.k1
+* IPA.DDR.ESS.IP4 = Sub.Net.Mas.k1
 
 #### Current OS
 
-	* FritzOS
+* FritzOS
