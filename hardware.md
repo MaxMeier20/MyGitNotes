@@ -10,7 +10,7 @@
 
 #### Current OS
 
-* DietPi Buster 32bit
+* DietPi ARM v6 Buster 32bit - Snapshot 20200614
 
 #### Current Software
 
