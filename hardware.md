@@ -23,7 +23,7 @@
 	* DNS Servers Available at: http:// IPA.DDR.ESS.IP4/admin/settings.php
 	* Password: Software Password
 
-**Including all dependencies and defaults:** [dropbear]https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&start=10#p62), [lighttpd](https://dietpi.com/phpbb/viewtopic.php?p=1335#p1335), php, python ...
+**Including all dependencies and defaults:** [dropbear](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&start=10#p62), [lighttpd](https://dietpi.com/phpbb/viewtopic.php?p=1335#p1335), php, python ...
 
 ## Entertainment
 
