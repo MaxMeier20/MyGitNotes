@@ -20,6 +20,7 @@
 	* Password: 
 * [Optimized PiHole](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&start=20#p174)
 	* Webinterface: IPA.DDR.ESS.IP4/admin
+	* DNS Servers Available at: http:// IPA.DDR.ESS.IP4/admin/settings.php
 	* Password: Software Password
 **Including all dependencies and defaults**
 
