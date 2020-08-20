@@ -52,7 +52,7 @@ tbd
 
 ## Network
 
-### Access Point: Asus AC66
+### Access Point: [Asus AC66](https://www.asus.com/us/Networking/RTAC66U/HelpDesk/)
 
 #### Address
 
@@ -60,9 +60,13 @@ tbd
 
 #### Current OS
 
-* AsusWRT 380.70
+* [AsusWRT-Merlin 380.70](https://www.asuswrt-merlin.net/)
 
-### Router: FritzBox Cable 6591
+### Powerline Extenders
+
+ *(incomplete) Netgear:check [here](https://kb.netgear.com/de/22355/FAQs-zu-Powerline))* 
+
+### Router: [FritzBox Cable 6591](https://avm.de/service/fritzbox/fritzbox-6591-cable/uebersicht/)
 
 #### Address
 
