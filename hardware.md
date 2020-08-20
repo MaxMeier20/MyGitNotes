@@ -80,7 +80,7 @@ tbd
 
 ### Broadlink RM Pro
 * App: IHC for EU
-* Skill:
+* Skill: IHC for EU
 * Daten: ASIN:B07G4CZTTW
 ### Smart LED Light Strip 5m
 * App: Magic Home Pro
