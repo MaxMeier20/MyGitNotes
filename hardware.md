@@ -82,7 +82,7 @@ tbd
 * App: IHC for EU
 * Skill: IHC for EU
 * Daten: ASIN:B07G4CZTTW
-### Smart LED Light Strip 5m
+### Simfonio Smart LED Light Strip 5m
 * App: Magic Home Pro
 * Skill: Magic Pro
 * Daten: ASIN:B07BLZCPPG EAN:0606479850018
