@@ -2,8 +2,8 @@
 
 ## Computer
 
-### RaspberryPi Zero W
-
+### [RaspberryPi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
+⇒ *[Cheat Sheet](https://www.techrepublic.com/article/raspberry-pi-zero-wireless-the-smart-persons-guide/)*
 #### Address
 
 * IPA.DDR.ESS.IP4 = Sub.Net.Mas.k40
@@ -23,13 +23,13 @@
 	* DNS Servers Available at: http:// IPA.DDR.ESS.IP4/admin/settings.php
 	* Password: Software Password
 
-**Including all dependencies and defaults:** dropbear, lighthppd, php, python ...
+**Including all dependencies and defaults:** [dropbear]https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&start=10#p62), [lighttpd](https://dietpi.com/phpbb/viewtopic.php?p=1335#p1335), php, python ...
 
 ## Entertainment
 
-### TV Smart TV - TCL 50EP660
+### TV - Smart: [TCL 50EP660](https://www.tcl.com/de/de/new-product-list/p66/50--4k-uhd-android-tv.html)
 
-#### Firmware Update Links
+#### Alternative Firmwares
 
 tbd
 
@@ -64,7 +64,7 @@ tbd
 
 ### Powerline Extenders
 
- *(incomplete) Netgear:check [here](https://kb.netgear.com/de/22355/FAQs-zu-Powerline))* 
+ *(incomplete) For Netgear check [here](https://kb.netgear.com/de/22355/FAQs-zu-Powerline)* 
 
 ### Router: [FritzBox Cable 6591](https://avm.de/service/fritzbox/fritzbox-6591-cable/uebersicht/)
 
