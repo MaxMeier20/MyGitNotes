@@ -62,12 +62,9 @@ tbd
 
 * [AsusWRT-Merlin 380.70](https://www.asuswrt-merlin.net/)
 
-### [Powerline](https://kb.netgear.com/de/30993/Hinzuf&uuml;gen-eines-Powerline-Adapters-in-ein-bereits-bestehendes-Powerline-Netzwerk-1479991115427) Extenders
+### Powerline Extenders
 
-Homeplug AV:
-* [Netgear Powerline AV 200 (XAV1601)](https://www.netgear.de/support/product/XAV1601.aspx)
-* [Netgear Powerline AV 200 (XAV2001)(https://www.netgear.de/support/product/XAV2001.aspx)
-* [Netgear Powerline AV 200 (XAVB1004)(https://www.downloads.netgear.com/files/products/XAVB1004/Documentation/IG/XAVB1004_NA_IG_12Aug10.pdf)
+ *(incomplete) For Netgear check [here](https://kb.netgear.com/de/22355/FAQs-zu-Powerline)* 
 
 ### Router: [FritzBox Cable 6591](https://avm.de/service/fritzbox/fritzbox-6591-cable/uebersicht/)
 
