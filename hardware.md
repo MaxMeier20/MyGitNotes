@@ -78,7 +78,7 @@ tbd
 
 ## Smart Home
 
-### Broadlink RM Pro
+### [Broadlink RM Pro](http://www.paulhibbert.co.uk/2017/11/24/a-complete-guide-to-connecting-the-broadlink-rm-pro-and-broadlink-blackbean-to-alexa/)
 * App: IHC for EU
 * Skill: IHC for EU
 * Daten: ASIN:B07G4CZTTW
