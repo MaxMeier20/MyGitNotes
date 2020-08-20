@@ -10,7 +10,7 @@
 
 #### Current OS
 
-* DietPi ARM v6 Buster 32bit - Snapshot 20200614
+* [DietPi BCM2835 ARMv6 RPi (Debian Buster 32bit - Snapshot 20200614)](https://dietpi.com/)
 
 #### Current Software
 
