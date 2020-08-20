@@ -1,5 +1,29 @@
 # Hardware
 
+## Computer
+
+### RaspberryPi Zero W
+
+#### Address
+
+* IPA.DDR.ESS.IP4 = Sub.Net.Mas.k40
+
+#### Current OS
+
+* DietPi Buster 32bit
+
+#### Current Software
+
+* [Optimized Fail2Ban](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&start=30#p452)
+* [Optimized MotionEye](https://dietpi.com/phpbb/viewtopic.php?p=6610#p6610)
+	* Webinterface: IPA.DDR.ESS.IP4:8765
+	* Password: 
+* [Optimized PiHole](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&start=20#p174)
+	* Webinterface: IPA.DDR.ESS.IP4/admin
+	* Password: Software Password
+**Including all dependencies and defaults**
+
+
 ## Entertainment
 
 ### TV Smart TV - TCL 50EP660
