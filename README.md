@@ -1,5 +1,5 @@
 # MyGitNotes
-Just my personal notebook in Markdown, to get comfortable with git/github
+Just my personal notebook in Markdown, to get comfortable with [git](https://rogerdudler.github.io/git-guide/index.de.html)/github
 
 ----
 
