@@ -3,9 +3,12 @@
 ## Addons Install
 - [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/)
 - [HTTPS Everywhere](https://addons.mozilla.org/de/firefox/addon/https-everywhere/)
+- [I don't care about cookies](https://addons.mozilla.org/de/firefox/addon/i-dont-care-about-cookies/)
 - [Startpage Private Search](https://addons.mozilla.org/de/firefox/addon/startpage-private-search/?src=search)
 - [uBlockOrigin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
-- (*optional*) [uMatrix](https://addons.mozilla.org/de/firefox/addon/umatrix/?src=search)
+- (*optional*) [uMatrix](https://addons.mozilla.org/de/firefox/addon/umatrix/?src=search)*
+
+\* *The uMatrix extension is powerful but needs to be adapted for many sites to display correctly - This only makes sense on daily driver machines, that are extensively used
 
 ### AntiAdblock Setup
 
@@ -39,8 +42,11 @@
 ## Privacy Settings
 
    1. Go to `Settings`select `Privacy & Security` and set `activity tracking protection`to `user defined`change `tracking content`to always
-   2. Set `Do Not Track` to always
-   3. In the `Cookie` section, set the tick on `delete cookies if firefox is closed`and define exceptions
+   * Set `Do Not Track` to always
+   * In the `Cookie` section, set the tick on `delete cookies if firefox is closed`and define exceptions
+   2. Go to `Settings` open the `General`section 
+   * Allow DRM
+   * (*optional*) Scroll all the way dow, open `connection settings` and (de-)select DNS-Over-HTTPS (deselect for private networks / select for networks controlled by others)
 
 ## Theming
    * Select "Arc Dark Theme" on Linux or "Windows 10 dark test" on Windows 
