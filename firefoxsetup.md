@@ -1,11 +1,11 @@
 # My Firefox Setup
 
-## Addons
-- Greasemonkey
-- HTTPS Everywhere
-- Startpage.com
-- uBlockOrigin
-- (*optional*) uMatrix
+## Addons Install
+- [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/)
+- [HTTPS Everywhere](https://addons.mozilla.org/de/firefox/addon/https-everywhere/)
+- [Startpage Private Search](https://addons.mozilla.org/de/firefox/addon/startpage-private-search/?src=search)
+- [uBlockOrigin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
+- (*optional*) [uMatrix](https://addons.mozilla.org/de/firefox/addon/umatrix/?src=search)
 
 ### AntiAdblock Setup
 
@@ -36,3 +36,11 @@
    
     abp:subscribe?location=https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt&amp;title=AakList (Anti-Adblock Killer))
 
+## Privacy Settings
+
+   1. Go to `Settings`select `Privacy & Security` and set `activity tracking protection`to `user defined`change `tracking content`to always
+   2. Set `Do Not Track` to always
+   3. In the `Cookie` section, set the tick on `delete cookies if firefox is closed`and define exceptions
+
+## Theming
+   * Select "Arc Dark Theme" on Linux or "Windows 10 dark test" on Windows 
