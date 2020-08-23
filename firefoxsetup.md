@@ -50,3 +50,9 @@
 
 ## Theming
    * Select "Arc Dark Theme" on Linux or "Windows 10 dark test" on Windows 
+
+# My Opera Setup
+
+## Video Playback Issue
+
+As Opera doesn't play .h264 video, the problem is easily solved by replacing `/usr/lib/x86_64-linux-gnu/opera/libffmpeg.so `with a fully licensed version of the library - either included in Google Chrome / Chromium and in many commmercial games from steam
