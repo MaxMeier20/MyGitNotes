@@ -19,7 +19,12 @@
 
 ## Software
 
+### Descriptions
+
 - [Software at Work](worksoftware.md)
 
+### Setup
+
+- [Firefox Setup](firefoxsetup-md)
 =======
 
