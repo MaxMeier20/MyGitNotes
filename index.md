@@ -25,7 +25,7 @@
 
 ### Setup
 
-- [Firefox Setup](firefoxsetup.md)
+- [Browser Setup](firefoxsetup.md)
 
 =======
 
