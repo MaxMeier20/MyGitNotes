@@ -42,11 +42,11 @@
 ## Privacy Settings
 
    1. Go to `Settings`select `Privacy & Security` and set `activity tracking protection`to `user defined`change `tracking content`to always
-   * Set `Do Not Track` to always
-   * In the `Cookie` section, set the tick on `delete cookies if firefox is closed`and define exceptions
+   * Set `Do Not Track` to `Always`
+   * In the `Cookie` section, set the tick on `Delete cookies if firefox is closed`and define exceptions
    2. Go to `Settings` open the `General`section 
    * Allow DRM
-   * (*optional*) Scroll all the way dow, open `connection settings` and (de-)select DNS-Over-HTTPS (deselect for private networks / select for networks controlled by others)
+   * (*optional*) Scroll all the way dow, open `Connection Settings` and (de-)select `DNS-Over-HTTPS` (deselect for private networks / select for networks controlled by others)
 
 ## Theming
    * Select "Arc Dark Theme" on Linux or "Windows 10 dark test" on Windows 
