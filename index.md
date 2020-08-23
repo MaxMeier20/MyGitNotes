@@ -13,7 +13,7 @@
 ## Hardware
 - [Printers for Ubuntu Mate 20.04](printersubuntumate.md)
 
-## Misc
+## Internet
 
 - [Free Mail Provider Selection](freemail.md)
 
@@ -23,9 +23,9 @@
 
 - [Software at Work](worksoftware.md)
 
-### Setup
+### Setup Notes
 
-- [Browser Setup](firefoxsetup.md)
+- [Browser (Firefox, Opera)](firefoxsetup.md)
 
 =======
 
