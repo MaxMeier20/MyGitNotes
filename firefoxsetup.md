@@ -49,7 +49,7 @@
    * (*optional*) Scroll all the way dow, open `Connection Settings` and (de-)select `DNS-Over-HTTPS` (deselect for private networks / select for networks controlled by others)
 
 ## Theming
-   * Select "Arc Dark Theme" on Linux or "Windows 10 dark test" on Windows 
+   * Select "Arc Dark Theme" on Linux ( on Windows 10, the "Standard" theme should reflect the OS theming: if not "Windows 10 dark test" is available) 
 
 # My Opera Setup
 
