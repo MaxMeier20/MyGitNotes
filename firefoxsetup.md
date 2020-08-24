@@ -50,6 +50,11 @@
 
 ## Theming
    * Select "Arc Dark Theme" on Linux ( on Windows 10, the "Standard" theme should reflect the OS theming: if not "Windows 10 dark test" is available) 
+   
+## *AddOns currently tested*
+
+   * [Decentraleyes](https://addons.mozilla.org/de/firefox/addon/decentraleyes/?src=featured) - Local delivery of normally CDN based libraries
+   * [FirefoxMultiAccountContainers](https://addons.mozilla.org/de/firefox/addon/multi-account-containers/?src=featured) - Maybe helpful to separate work and private usage of some services
 
 # My Opera Setup
 
