@@ -8,7 +8,7 @@
 - [uBlockOrigin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
 - (*optional*) [uMatrix](https://addons.mozilla.org/de/firefox/addon/umatrix/?src=search)*
 
-\* *The uMatrix extension is powerful but needs to be adapted for many sites to display correctly - This only makes sense on daily driver machines, that are extensively used
+\* *The uMatrix extension is powerful but needs to be adapted for many sites to display correctly - This only makes sense on daily driver machines, that are extensively used*
 
 ### AntiAdblock Setup
 
