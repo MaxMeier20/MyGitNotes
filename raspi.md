@@ -13,7 +13,7 @@
 
 1. Even if there is a [common homepage](https://en.opensuse.org/HCL:Raspberry_Pi3) for Leap (stable) and Tumbleweed (rolling), the links are quickly outdated. Best way is to check on the [Tumbleweed General Download Directory](http://download.opensuse.org/ports/aarch64/tumbleweed/images/) or the [Leap General Download Directory](http://download.opensuse.org/ports/aarch64/distribution/leap/15.2/appliances/)
 2. After flashing, at least Leap 15.2 will extend the filesystem to the whole SD card by itself
-3. Bringing the system in a usual state:
+3. Bringing the system in a usable state:
   * Scale the display down to a usable size  `xrandr -s 1`
   
   * Activate the WiFi
@@ -23,3 +23,4 @@
    c) Setup Wifi using *Yast Network* tool
    
   * Create a user utilizing *Yast Users and Groups*
+  * Install nano :wink: `zypper in nano`
