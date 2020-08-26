@@ -18,9 +18,11 @@
   
   * Activate the WiFi
   
-   a) Remove `sdhci_iproc` from `/etc/dracut.conf.d/raspberrypi_modules.conf` and run `mkinitrd -f`
-   b) Reboot
-   c) Setup Wifi using *Yast Network* tool
+       a) Remove `sdhci_iproc` from `/etc/dracut.conf.d/raspberrypi_modules.conf` and run `mkinitrd -f`
+       
+       b) Reboot
+       
+       c) Setup Wifi using *Yast Network* tool
    
   * Create a user utilizing *Yast Users and Groups*
   * Install nano :wink: `zypper in nano`
