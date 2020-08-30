@@ -32,7 +32,8 @@
 ### DE
 Login Manager: `ly` (`tbsm`,`XDM` as alternatives)
 Most information available in the [Gentoo Wiki](https://wiki.gentoo.org/wiki/FVWM-Crystal)
-Current Minimal List: rox pcmanfm terminator xterm xscreensaver alsaplayer mplayer2 alsamixer pmount
+Current Minimal List:
+>  rox-filer pcmanfm terminator xterm xscreensaver alsaplayer mplayer2 alsamixer pmount
 
 ### OS
 Currently planned is [Ubuntu Server 20.04 64bit](https://ubuntu.com/download/raspberry-pi) see on the [Ubuntu Minimal Desktop](http://wiki.dennyhalim.com/ubuntu-minimal-desktop) page what missing packages to install
