@@ -14,5 +14,6 @@
     mkfs.minix |     mkfs.vfa
 * Identify active terminal emulator `ps -o 'cmd=' -p $(ps -o 'ppid=' -p $$)` or `pstree -sA $$ | head -n1 | awk -F "---" '{ print $(NF-1) }'`
 * Identify running Linux / OS
-    * Distribution: `cat /etc/*-release`
+    * Distribution: `cat /etc/*-release` or just install `neofetch`
     * Kernel: `uname -a`or `uname -mrs`
+*
