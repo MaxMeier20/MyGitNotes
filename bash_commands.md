@@ -15,3 +15,4 @@
     mkfs.cramfs  |  mkfs.ext4  |    mkfs.jfs 
     mkfs.reiserfs  | mkfs.exfat |    mkfs.fat
     mkfs.minix |     mkfs.vfa
+* Identify active terminal emulator `ps -o 'cmd=' -p $(ps -o 'ppid=' -p $$)`
