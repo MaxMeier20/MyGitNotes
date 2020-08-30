@@ -13,6 +13,6 @@
     mkfs.reiserfs  | mkfs.exfat |    mkfs.fat
     mkfs.minix |     mkfs.vfa
 * Identify active terminal emulator `ps -o 'cmd=' -p $(ps -o 'ppid=' -p $$)` or `pstree -sA $$ | head -n1 | awk -F "---" '{ print $(NF-1) }'`
-* Identify running Linux / OS, easiest was is just installing `neofetch` and appending that to the `.bashrc`
+* Identify running Linux / OS, easiest way is just installing `neofetch` (and appending that to the `.bashrc` so you see it always)
     * Distribution: `cat /etc/*-release` 
     * Kernel: `uname -a`or `uname -mrs`
