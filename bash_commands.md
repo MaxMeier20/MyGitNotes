@@ -1,6 +1,3 @@
-* Find out what Linux is running
-    * Distribution: `cat /etc/*-release`or `cat /etc/*-release`
-    * Kernel: `uname -a`or `uname -mrs`
 * Find out storage / available diskspace: `df -h`    
 * Format a drive
     1. Find the drive name (i.e. sdc1) with `df -h`
@@ -15,4 +12,7 @@
     mkfs.cramfs  |  mkfs.ext4  |    mkfs.jfs 
     mkfs.reiserfs  | mkfs.exfat |    mkfs.fat
     mkfs.minix |     mkfs.vfa
-* Identify active terminal emulator `ps -o 'cmd=' -p $(ps -o 'ppid=' -p $$)`
+* Identify active terminal emulator `ps -o 'cmd=' -p $(ps -o 'ppid=' -p $$)` or `pstree -sA $$ | head -n1 | awk -F "---" '{ print $(NF-1) }'`
+* Identify running Linux / OS
+    * Distribution: `cat /etc/*-release`
+    * Kernel: `uname -a`or `uname -mrs`
