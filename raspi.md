@@ -26,3 +26,12 @@
    
   * Create a user utilizing *Yast Users and Groups*
   * Install nano :wink: `zypper in nano`
+
+## *Ubuntu Server + FVWM Crystal*
+
+### DE
+Login Manager: `ly` (`tbsm`,`XDM` as alternatives)
+Most information available in the [Gentoo Wiki](https://wiki.gentoo.org/wiki/FVWM-Crystal)
+
+### OS
+Currently planned is [Ubuntu Server 20.04 64bit](https://ubuntu.com/download/raspberry-pi)
