@@ -48,6 +48,12 @@ Current Minimal List:
 
 >  sudo apt install rox-filer pcmanfm terminator xterm xscreensaver alsaplayer mplayer pmount
 
+>  sudo groupadd fvwm-crystal
+
+>  sudo usermod -aG dialout,cdrom,floppy,audio,video,plugdev,fvwm-crystal,fuse,lpadmin USERNAME
+
+Create .xsession file and add `exec fvwm-crystal`
+
 
 ### OS
 Currently planned is [Ubuntu Server 20.04 64bit](https://ubuntu.com/download/raspberry-pi) see on the [Ubuntu Minimal Desktop](http://wiki.dennyhalim.com/ubuntu-minimal-desktop) page what missing packages to install
