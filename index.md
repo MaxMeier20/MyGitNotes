@@ -12,14 +12,21 @@
 
 ## Hardware
 - [Printers for Ubuntu Mate 20.04](printersubuntumate.md)
+- [RaspberryPi](raspi.md)
 
-## Misc
+## Internet
 
 - [Free Mail Provider Selection](freemail.md)
 
 ## Software
 
+### Descriptions
+
 - [Software at Work](worksoftware.md)
+
+### Setup Notes
+
+- [Browser (Firefox, Opera)](firefoxsetup.md)
 
 =======
 

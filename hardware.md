@@ -74,7 +74,7 @@ tbd
 
 #### Current OS
 
-* FritzOS
+* FRITZ!OS: 07.13
 
 ## Smart Home
 
