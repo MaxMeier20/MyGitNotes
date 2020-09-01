@@ -12,6 +12,7 @@
 
 ## Hardware
 - [Printers for Ubuntu Mate 20.04](printersubuntumate.md)
+- [RaspberryPi](raspi.md)
 
 ## Internet
 
