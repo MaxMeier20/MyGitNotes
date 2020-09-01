@@ -46,7 +46,7 @@ Current Minimal List:
 
 >  sudo make prefix=/usr install
 
->  sudo apt install rox-filer pcmanfm terminator xterm xscreensaver alsaplayer mplayer pmount
+>  sudo apt install rox-filer pcmanfm fvwm xterm xscreensaver alsaplayer mplayer pmount
 
 >  sudo groupadd fvwm-crystal
 
