@@ -1,7 +1,7 @@
 # Raspberr Pi Zero W
 
 ## DietPi
-* So far best experience with [DietPi](https://dietpi.com]. Just flash it and follow the ncurses on-screen menu `dietpi-config`while selecting optimized software from the menus `dietpi-software`
+* So far best experience with [DietPi](https://dietpi.com) Just flash it and follow the ncurses on-screen menu `dietpi-config`while selecting optimized software from the menus `dietpi-software`
 * The [updated documentation](https://dietpi.com/docs/) looks nicer, though the BB system based information seems to be still accurate
 
 # Raspberry Pi 3B
