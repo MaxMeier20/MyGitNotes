@@ -52,8 +52,10 @@ Current Minimal List:
 
 >  sudo usermod -aG dialout,cdrom,floppy,audio,video,plugdev,fvwm-crystal,fuse,lpadmin USERNAME
 
-Create .xsession file and add `exec fvwm-crystal`
-
+Minimal StartUp
+Create `~/.xinitrc file` and add `exec ck-launch-session /usr/bin/fvwm-crystal` 
+Create `~/.bash_profile` and add `if ! pidof X &>/dev/null ; then startx ; fi`
+or simply install `ly`
 
 ### OS
 Currently planned is [Ubuntu Server 20.04 64bit](https://ubuntu.com/download/raspberry-pi) see on the [Ubuntu Minimal Desktop](http://wiki.dennyhalim.com/ubuntu-minimal-desktop) page what missing packages to install
