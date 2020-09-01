@@ -35,11 +35,17 @@ Most information available in the [Gentoo Wiki](https://wiki.gentoo.org/wiki/FVW
 Current Minimal List:
 
 >  sudo apt install xserver-xorg-core xinit menu menu-xdg gdebi-core logrotate localepurge
+
 >  sudo apt install build-essential
+
 >  wget https://sourceforge.net/projects/fvwm-crystal/files/3.6.6/fvwm-crystal-3.6.6.tar.gz
+
 >  tar xzvf fvwm-crystal-3.6.6.tar.gz
+
 >  cd fvwm-crystal-3.6.6/
+
 >  sudo make prefix=/usr install
+
 >  sudo apt install rox-filer pcmanfm terminator xterm xscreensaver alsaplayer mplayer pmount
 
 
