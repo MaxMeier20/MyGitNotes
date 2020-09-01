@@ -33,7 +33,15 @@
 Login Manager: `ly` (`tbsm`,`XDM` as alternatives)
 Most information available in the [Gentoo Wiki](https://wiki.gentoo.org/wiki/FVWM-Crystal)
 Current Minimal List:
->  rox-filer pcmanfm terminator xterm xscreensaver alsaplayer mplayer2 alsamixer pmount
+
+>  sudo apt install xserver-xorg-core xinit menu menu-xdg gdebi-core logrotate localepurge
+>  sudo apt install build-essential
+>  wget https://sourceforge.net/projects/fvwm-crystal/files/3.6.6/fvwm-crystal-3.6.6.tar.gz
+>  tar xzvf fvwm-crystal-3.6.6.tar.gz
+>  cd fvwm-crystal-3.6.6/
+>  sudo make prefix=/usr install
+>  sudo apt install rox-filer pcmanfm terminator xterm xscreensaver alsaplayer mplayer pmount
+
 
 ### OS
 Currently planned is [Ubuntu Server 20.04 64bit](https://ubuntu.com/download/raspberry-pi) see on the [Ubuntu Minimal Desktop](http://wiki.dennyhalim.com/ubuntu-minimal-desktop) page what missing packages to install
