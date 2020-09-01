@@ -34,7 +34,7 @@ Login Manager: `ly` (`tbsm`,`XDM` as alternatives)
 Most information available in the [Gentoo Wiki](https://wiki.gentoo.org/wiki/FVWM-Crystal)
 Current Minimal List:
 
->  sudo apt install xserver-xorg-core xinit menu menu-xdg gdebi-core logrotate localepurge
+>  sudo apt install xserver-xorg-core xinit menu menu-xdg fvwm gdebi-core logrotate localepurge
 
 >  sudo apt install build-essential
 
@@ -46,7 +46,7 @@ Current Minimal List:
 
 >  sudo make prefix=/usr install
 
->  sudo apt install rox-filer pcmanfm fvwm xterm xscreensaver alsaplayer mplayer pmount
+>  sudo apt install rox-filer pcmanfm xterm xscreensaver alsaplayer mplayer pmount
 
 >  sudo groupadd fvwm-crystal
 
