@@ -61,6 +61,9 @@ or simply install `ly`
 
 ### DE
 
-Select `alsautils xserver mpd fail2ban dropbear mc python3`in dietpi-software, to pull in dependencies not defined by the fvwm-crystal package
-and than install programs of interest `sudo apt install lxdm fvwm-crystal rox-filer terminator xscreensaver alsaplayer mplayer`followed by missing dependencies `sudo apt install at-spi2-core lsb-release menu menu-xdg pmount xdg-utils`
+Select `avahi-daemon alsautils xserver libssl mc python3 mpd fail2ban dropbear `in dietpi-software, to pull in dependencies not defined by the fvwm-crystal package. Use dietpi-config Advanced Options to cache on disk. 
+
+and than install programs of interest `sudo apt install lxdm fvwm-crystal rox-filer terminator xscreensaver alsaplayer mplayer`
+
+followed by missing dependencies `sudo apt install at-spi2-core lsb-release menu menu-xdg pmount xdg-utils`
 
