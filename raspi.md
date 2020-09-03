@@ -59,15 +59,17 @@ or simply install `ly`
 
 ## *DietPi + FVWM Crystal*
 
+*Even if one needs to work around the Debian "Diet", this yields so far the most lean system - Due to the "Diet" one should start programs first on the terminal, see for missing dependencies and re-install them. Nevertheless one can easily use the dietpi-config tool to set a fully working CLI system, where the only missing functionality is tied to specific software outside of the DietPi catalogue*
+
 ### DE
 
-1. Select `avahi-daemon alsautils xserver libssl mc python3 mpd fail2ban dropbear `in dietpi-software, to pull in dependencies not defined by the fvwm-crystal package. Use dietpi-config Advanced Options to cache on disk. 
+1. Select `avahi-daemon alsautils xserver libssl mc python3 mpd fail2ban dropbear `in dietpi-software, to pull in dependencies not defined by the fvwm-crystal package. Use `dietpi-config` and set apt in the Advanced Options to `cache on disk`. 
 
 2. Install programs of interest `sudo apt install lxdm fvwm-crystal rox-filer terminator xscreensaver alsaplayer mplayer`
 
-3. Install some missing dependencies `sudo apt install at-spi2-core lsb-release menu menu-xdg pmount xdg-utils` (to be extended9
+3. Install some missing dependencies `sudo apt install at-spi2-core lsb-release menu menu-xdg pmount xdg-utils` (to be extended)
 
-4. Edit `/etc/apt/sources.list`and add
+4. Edit `/etc/apt/sources.list`and add (use the according release)
 
 > http://httpredir.debian.org/debian buster main non-free contrib
 
@@ -77,7 +79,7 @@ or simply install `ly`
 
 > sudo touch lock
 
-
+--> The whole system uses ~110MB (with an open tab in Firefox ESR <500 MB)
 
 
 
