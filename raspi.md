@@ -62,5 +62,5 @@ or simply install `ly`
 ### DE
 
 Select `alsautils xserver mpd fail2ban dropbear mc python3`in dietpi-software, to pull in dependencies not defined by the fvwm-crystal package
-and than `sudo apt install lxdm menu menu-xdg fvwm-crystal rox-filer terminator xscreensaver alsaplayer mplayer pmount xdg-utils`
+and than install programs of interest `sudo apt install lxdm fvwm-crystal rox-filer terminator xscreensaver alsaplayer mplayer`followed by missing dependencies `sudo apt install at-spi2-core lsb-release menu menu-xdg pmount xdg-utils`
 
