@@ -17,6 +17,6 @@
     * Distribution: `cat /etc/*-release` 
     * Kernel: `uname -a`or `uname -mrs`
 * Shutdown the system cleanly and immediately `shutdown -h now` 
-
-If the machine hangs try first `systemctl --force poweroff` (on systemD systems) and than `echo o >/proc/sysrq-trigger` <-- Both are just as dangerous as unplugging the cord for the filesystem, but avoid the electric charge on the mainboard
+   1. If the machine hangs try first `systemctl --force poweroff` (on systemD systems) 
+   2. If this doesn't work `echo o >/proc/sysrq-trigger` <-- Both are just as dangerous as unplugging the cord for the filesystem, but avoid the electric charge on the mainboard
 
