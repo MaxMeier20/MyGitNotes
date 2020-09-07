@@ -16,5 +16,7 @@
 * Identify running Linux / OS, easiest way is just installing `neofetch` (and appending that to the `.bashrc` so you see it always)
     * Distribution: `cat /etc/*-release` 
     * Kernel: `uname -a`or `uname -mrs`
-* Shutdown the system cleanly and immediately `shutdown -h now` if the machine hangs try first `systemctl --force poweroff` (on systemD systems) and than `echo o >/proc/sysrq-trigger` <-- Both are just as dangerous as unplugging the cord for the filesystem, but avoid the electric charge on the mainboard
+* Shutdown the system cleanly and immediately `shutdown -h now` 
+
+If the machine hangs try first `systemctl --force poweroff` (on systemD systems) and than `echo o >/proc/sysrq-trigger` <-- Both are just as dangerous as unplugging the cord for the filesystem, but avoid the electric charge on the mainboard
 
