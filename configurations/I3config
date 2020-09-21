@@ -8,6 +8,7 @@
 # i3 config file (v4)
 #
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
+# THIS NEEDS TO BE MOVED / RENAMED TO `~/.config/i3/config/
 
 ##### StartUp Sequence #####
 #### Packages synapse, numlockx, nitrogen, compton have to be installed
