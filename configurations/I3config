@@ -8,10 +8,9 @@
 # i3 config file (v4)
 #
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
-# THIS NEEDS TO BE MOVED / RENAMED TO `~/.config/i3/config`
 
 ##### StartUp Sequence #####
-#### Packages synapse, numlockx, nitrogen, compton have to be installed
+#### Packages synapse, numlockx, nitrogen, compton, font awesome, xfce4-power-manager have to be installed
 
 
 #Define Screen Estate and wallpaper
@@ -20,6 +19,9 @@ exec xrandr --output DisplayPort1 --primary
 
 #Allow Transparency
 exec_always --no-startup-id compton
+
+#Save Power
+exec --no-startup-id 'xfce4-power-manager'
 
 #Start Program Launcher
 exec synapse -s
@@ -34,6 +36,11 @@ exec_always --no-startup-id numlockx on
 
 bindsym $mod+x move workspace to output right
 bindsym $mod+y move workspace to output left
+
+# Allow stopping of the system
+bindsym $mod+Control+r exec dbus-send --system --print-reply --dest=org.freedesktop.login1 /org/freedesktop/login1 "org.freedesktop.login1.Manager.Reboot" boolean:true
+bindsym $mod+Control+s exec --no-startup-id dbus-send --system --print-reply --dest=org.freedesktop.login1 /org/freedesktop/login1 "org.freedesktop.login1.Manager.Suspend" boolean:true
+bindsym $mod+Control+x exec --no-startup-id dbus-send --system --print-reply --dest="org.freedesktop.ConsoleKit" /org/freedesktop/ConsoleKit/Manager org.freedesktop.ConsoleKit.Manager.Stop
 
 ##### End Individual StartUp #####
 
@@ -177,6 +184,7 @@ assign [class="Sakura"] $ws5
 assign [class="XTerm"] $ws5
 assign [class="Synapse"] $ws1
 assign [class="smplayer"] $ws6
+assign [class="Opera"] $ws4
 
 
 for_window [class="Firefox"] move to $ws1
@@ -186,6 +194,7 @@ for_window [class="Sakura"] move to $ws5
 for_window [class="XTerm"] move to $ws5
 for_window [class="Synapse"] move to $ws1
 for_window [class="smplayer"] move to $ws6
+for_window [class="Opera"] move to $ws4
 
 # reload the configuration file
 bindsym $mod+Shift+q reload
