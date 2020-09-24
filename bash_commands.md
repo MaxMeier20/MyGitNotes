@@ -24,4 +24,5 @@
 * Shutdown the system cleanly and immediately `shutdown -h now` 
    1. If the machine hangs try first `systemctl --force poweroff` (on systemD systems) 
    2. If this doesn't work `echo o >/proc/sysrq-trigger` <-- Both are just as dangerous as unplugging the cord for the filesystem, but avoid the electric charge on the mainboard
+* Test unicode support of a terminal / cli based text viewer: `curl https://www.cl.cam.ac.uk/~mgk25/ucs/examples/UTF-8-demo.txt`
 
