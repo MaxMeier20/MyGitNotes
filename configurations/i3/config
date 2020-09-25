@@ -10,7 +10,7 @@
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
 ##### ##### ##### ##### Individual StartUp Sequence ##### ##### ##### ##### 
-#### Packages:  compton, font awesome, numlockx, nitrogen, pcmanfm, sakura, synapse, xfce4-power-manager 
+#### Packages:  compton, font awesome, i3lock, numlockx, nitrogen, pcmanfm, sakura, synapse, xfce4-power-manager 
 #### have to be installed, next to i3 itself
 #### Backup: ~/.config/i3, ~/.config/i3blocks, ~/.config/compton, ~/.config/scripts, ~/Bilder/lockscreeni3.png 
 
@@ -27,6 +27,7 @@ for_window [class="Firefox"] border normal
 for_window [class="Chromium"] border normal
 for_window [class="Opera"] border normal
 for_window [class="Brave-browser"] border normal
+#Only show edges if more than one window is displayed on an output
 hide_edge_borders smart
 
 # Color everything Arc-Dark (commented colors are part of trying to correctly assign the colorscheme colors to i3)
@@ -62,6 +63,9 @@ exec --no-startup-id 'xfce4-power-manager'
 #Start Program Launcher
 exec synapse -s
 
+#Get informed on Updates
+#exec_always --no-startup-id apt-notifier
+
 #Get the NumPad working correctly
 exec_always --no-startup-id numlockx on
 
@@ -92,6 +96,9 @@ bindsym $mod+Shift+Return exec firefox
 
 #Fullfill my switcher heart with joy (filemanager)
 bindsym $mod+e exec pcmanfm
+#Fullfill my switcher heart with joy (window-cycling)
+bindsym Mod1+Tab focus right
+bindsym Mod1+Shift+Tab focus left
 
 ### Inactive experiments / code
 
@@ -196,8 +203,6 @@ bindsym $mod+a focus parent
 #####  Individual Display and Workspace setup ##### 
 # Define Workspace Variables
 # Currently: "1 WWW/ 2 DEV/ 3 COM/ 4 WORK1/ 5 TERM/ 6 MEDIA/ 7 WORK2/ 8 SSH"
-# Hack: Workspace 9 is a workaround /hack workspace for 5, as long as I don't understand how to send a string to
-# the python script in # start a terminal #
 set $ws1 "1: Web"
 set $ws2 "2: Dev"
 set $ws3 "3: Com"
@@ -231,6 +236,10 @@ assign [class="Opera"] $ws4
 assign [class="Sakura"] $ws5
 assign [class="XTerm"] $ws5
 assign [class="smplayer"] $ws6
+assign [class="mpv"] $ws6
+assign [class="mplayer"] $ws6
+assign [class="vlc"] $ws6
+
 
 for_window [class="Firefox"] move to $ws1
 for_window [class="Chromium"] move to $ws1
@@ -241,6 +250,10 @@ for_window [class="Sakura"] move to $ws5
 for_window [class="Sakura"] focus
 for_window [class="XTerm"] move to $ws5
 for_window [class="smplayer"] move to $ws6
+for_window  [class="mpv"] $ws6
+for_window  [class="mplayer"] $ws6
+for_window  [class="vlc"] $ws6
+
 
 #####  End Individual Display and Workspace setup ##### 
 
