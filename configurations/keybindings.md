@@ -60,7 +60,7 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 
    - Pressing <kbd>left</kbd> will shrink the windows width.
    - Pressing <kbd>right</kbd> will grow the windows width.
-   - Pressing <kbd>up</kbd> will shrink the windows height.
+   - Pressing <kbd>↑</kbd> will shrink the windows height.
    - Pressing <kbd>down</kbd> will grow the windows height.
 	 
  - Keeping <kbd>Win</kbd> pressed, allows resizing via mouse
@@ -68,7 +68,7 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 	
 - <kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> - resize (shrink/grow width / height by 10x10 pixels)
 	
-- <kbd>left</kbd>, <kbd>down</kbd>, <kbd>up</kbd>, <kbd>right</kbd> - (shrink/grow width / height by 10x10 pixels)
+- <kbd>left</kbd>, <kbd>down</kbd>, <kbd>↑</kbd>, <kbd>right</kbd> - (shrink/grow width / height by 10x10 pixels)
 	
 - <kbd>Return</kbd>,<kbd>Escape</kbd>  - leave resize mode
 	 	
@@ -77,7 +77,7 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 
 <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>j</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>down</kbd> - move focused window down
 
-<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>k</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>up</kbd> - move focused window up
+<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>k</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>↑</kbd> - move focused window up
 
 <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>l</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>right</kbd> - move focused window right
 
@@ -86,7 +86,7 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 
 <kbd>Win</kbd>+<kbd>j</kbd> / <kbd>Win</kbd>+<kbd>down</kbd> - change focus down
 
-<kbd>Win</kbd>+<kbd>k</kbd> / <kbd>Win</kbd>-<kbd>up</kbd> - change focus up
+<kbd>Win</kbd>+<kbd>k</kbd> / <kbd>Win</kbd>-<kbd>↑</kbd> - change focus up
 
 <kbd>Win</kbd>+<kbd>l</kbd> / <kbd>Win</kbd>-<kbd>right</kbd> - change focus right
 
