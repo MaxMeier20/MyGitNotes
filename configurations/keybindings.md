@@ -58,18 +58,19 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 
 <kbd>Win</kbd>+<kbd>r</kbd> - Enter resize mode
 
-   #### Pressing left will shrink the windows width.
-   #### Pressing right will grow the windows width.
-   #### Pressing <kbd>up</kbd> will shrink the windows height.
-   #### Pressing down will grow the windows height.
+   - Pressing left will shrink the windows width.
+   - Pressing right will grow the windows width.
+   - Pressing <kbd>up</kbd> will shrink the windows height.
+   - Pressing down will grow the windows height.
 	 
-	 #### Keeping <kbd>Win</kbd> pressed, allows resizing via mouse
+ #### Keeping <kbd>Win</kbd> pressed, allows resizing via mouse
 
-	<kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> - resize (shrink/grow width / height by 10x10 pixels)
 	
-	<kbd>Left Arrow</kbd>, <kbd>Down Arrow</kbd>, <kbd>Up Arrow</kbd>, <kbd>Right Arrow</kbd> - (shrink/grow width / height by 10x10 pixels)
+<kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> - resize (shrink/grow width / height by 10x10 pixels)
 	
-	<kbd>Return</kbd>,<kbd>Escape</kbd>  - leave resize mode
+<kbd>Left Arrow</kbd>, <kbd>Down Arrow</kbd>, <kbd>Up Arrow</kbd>, <kbd>Right Arrow</kbd> - (shrink/grow width / height by 10x10 pixels)
+	
+<kbd>Return</kbd>,<kbd>Escape</kbd>  - leave resize mode
 	 	
 ### Moving open windows
 <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>h</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>Left Arrow</kbd> - move focused window left
