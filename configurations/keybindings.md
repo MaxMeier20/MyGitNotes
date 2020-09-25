@@ -58,10 +58,10 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 
 <kbd>Win</kbd>+<kbd>r</kbd> - Enter resize mode
 
-   - Pressing <kbd>←</kbd> will shrink the windows width.
-   - Pressing <kbd>→</kbd> will grow the windows width.
-   - Pressing <kbd>↑</kbd> will shrink the windows height.
-   - Pressing <kbd>↓</kbd> will grow the windows height.
+   - <kbd>←</kbd> will shrink the windows width.
+   - <kbd>→</kbd> will grow the windows width.
+   - <kbd>↑</kbd> will shrink the windows height.
+   - <kbd>↓</kbd> will grow the windows height.
 	 
  - **Keeping <kbd>Win</kbd> pressed, allows resizing via mouse**
 
