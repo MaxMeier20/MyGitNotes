@@ -58,20 +58,17 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 
 <kbd>Win</kbd>+<kbd>r</kbd> - Enter resize mode
 
-   - <kbd>←</kbd> will shrink the windows width.
-   - <kbd>→</kbd> will grow the windows width.
-   - <kbd>↑</kbd> will shrink the windows height.
-   - <kbd>↓</kbd> will grow the windows height.
-	 
+   - <kbd>←</kbd> will shrink the windows width
+   - <kbd>→</kbd> will grow the windows width
+   - <kbd>↑</kbd> will shrink the windows height
+   - <kbd>↓</kbd> will grow the windows height
+	
+- <kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> | <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> resize (shrink/grow width / height by 10x10 pixels)
+
+- <kbd>Return</kbd>,<kbd>Escape</kbd>  - leave resize mode
+
  - **Keeping <kbd>Win</kbd> pressed, allows resizing via mouse**
 
-	
-- <kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> - resize (shrink/grow width / height by 10x10 pixels)
-	
-- <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> - (shrink/grow width / height by 10x10 pixels)
-	
-- <kbd>Return</kbd>,<kbd>Escape</kbd>  - leave resize mode
-	 	
 ### Moving open windows
 <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>h</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>←</kbd> - move focused window left
 
