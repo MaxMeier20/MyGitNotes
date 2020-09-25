@@ -47,16 +47,16 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 ### Changing / Closing windows
 <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd> - kill active window
 
-<kbd>Win</kbd>+<kbd>b</kbd> - Split in horizontal orientation
+<kbd>Win</kbd>+<kbd>b</kbd> - split in horizontal orientation
 
-<kbd>Win</kbd>+<kbd>v</kbd> - Split in vertical orientation
+<kbd>Win</kbd>+<kbd>v</kbd> - split in vertical orientation
 
 ### Layout changes
-<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>Space</kbd> - Toggle floating / tiling 
+<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>Space</kbd> - toggle floating / tiling 
 
 <kbd>Win</kbd>+<kbd>f</kbd> - toggle fullscreen
 
-<kbd>Win</kbd>+<kbd>r</kbd> - Enter resize mode
+<kbd>Win</kbd>+<kbd>r</kbd> - enter resize mode
 
    - <kbd>←</kbd> | <kbd>h</kbd> will shrink the windows width
    - <kbd>→</kbd> | <kbd>l</kbd> will grow the windows width
