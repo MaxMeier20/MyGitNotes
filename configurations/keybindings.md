@@ -58,10 +58,10 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 
 <kbd>Win</kbd>+<kbd>r</kbd> - Enter resize mode
 
-   - <kbd>←</kbd> will shrink the windows width
-   - <kbd>→</kbd> will grow the windows width
-   - <kbd>↑</kbd> will shrink the windows height
-   - <kbd>↓</kbd> will grow the windows height
+   - <kbd>←</kbd> | <kbd>h</kbd> will shrink the windows width
+   - <kbd>→</kbd> | <kbd>l</kbd> will grow the windows width
+   - <kbd>↑</kbd> | <kbd>k</kbd> will shrink the windows height
+   - <kbd>↓</kbd> | <kbd>j</kbd> will grow the windows height
 	
 - <kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> | <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> resize (shrink/grow width / height by 10x10 pixels)
 
