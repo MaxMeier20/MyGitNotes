@@ -68,27 +68,27 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 	
 <kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> - resize (shrink/grow width / height by 10x10 pixels)
 	
-<kbd>Left Arrow</kbd>, <kbd>Down Arrow</kbd>, <kbd>Up Arrow</kbd>, <kbd>Right Arrow</kbd> - (shrink/grow width / height by 10x10 pixels)
+<kbd>left</kbd>, <kbd>down</kbd>, <kbd>up</kbd>, <kbd>right</kbd> - (shrink/grow width / height by 10x10 pixels)
 	
 <kbd>Return</kbd>,<kbd>Escape</kbd>  - leave resize mode
 	 	
 ### Moving open windows
-<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>h</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>Left Arrow</kbd> - move focused window left
+<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>h</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>left</kbd> - move focused window left
 
-<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>j</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>Down Arrow</kbd> - move focused window down
+<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>j</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>down</kbd> - move focused window down
 
-<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>k</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>Up Arrow</kbd> - move focused window up
+<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>k</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>up</kbd> - move focused window up
 
-<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>l</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>Right Arrow</kbd> - move focused window right
+<kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>l</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>right</kbd> - move focused window right
 
 ### Navigating open windows
-<kbd>Win</kbd>+<kbd>h</kbd> / <kbd>Win</kbd>+<kbd>Left Arrow</kbd> - change focus left
+<kbd>Win</kbd>+<kbd>h</kbd> / <kbd>Win</kbd>+<kbd>left</kbd> - change focus left
 
 <kbd>Win</kbd>+<kbd>j</kbd> / <kbd>Win</kbd>+<kbd>down</kbd> - change focus down
 
-<kbd>Win</kbd>+<kbd>k</kbd> / <kbd>Win</kbd>-<kbd>Up</kbd> - change focus up
+<kbd>Win</kbd>+<kbd>k</kbd> / <kbd>Win</kbd>-<kbd>up</kbd> - change focus up
 
-<kbd>Win</kbd>+<kbd>l</kbd> / <kbd>Win</kbd>-<kbd>Right Arrow</kbd> - change focus right
+<kbd>Win</kbd>+<kbd>l</kbd> / <kbd>Win</kbd>-<kbd>right</kbd> - change focus right
 
 <kbd>Win</kbd>+<kbd>a</kbd> - focus parent container
 
