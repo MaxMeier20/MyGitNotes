@@ -63,7 +63,7 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
    - Pressing <kbd>↑</kbd> will shrink the windows height.
    - Pressing <kbd>↓</kbd> will grow the windows height.
 	 
- - Keeping <kbd>Win</kbd> pressed, allows resizing via mouse
+ - **Keeping <kbd>Win</kbd> pressed, allows resizing via mouse**
 
 	
 - <kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> - resize (shrink/grow width / height by 10x10 pixels)
