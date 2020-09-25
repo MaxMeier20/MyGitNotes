@@ -57,10 +57,11 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 <kbd>Win</kbd>+<kbd>f</kbd> - toggle fullscreen
 
 <kbd>Win</kbd>+<kbd>r</kbd> - Enter resize mode
+
      #### Pressing left will shrink the window’s width.
      #### Pressing right will grow the window’s width.
      #### Pressing <kbd>up</kbd> will shrink the window’s height.
-     #### Pressing down will grow the window’s height.
+     #### Pressing down will grow the windows height.
 	 
 	 #### Keeping <kbd>Win</kbd> pressed, allows resizing via mouse
 
@@ -82,9 +83,9 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
 ### Navigating open windows
 <kbd>Win</kbd>+<kbd>h</kbd> / <kbd>Win</kbd>+<kbd>Left Arrow</kbd> - change focus left
 
-<kbd>Win</kbd>+<kbd>j</kbd> / <kbd>Win</kbd>+<kbd>Down Arrow</kbd> - change focus down
+<kbd>Win</kbd>+<kbd>j</kbd> / <kbd>Win</kbd>+<kbd>down</kbd> - change focus down
 
-<kbd>Win</kbd>+<kbd>k</kbd> / <kbd>Win<kbd>-<kbd>Up Arrow</kbd> - change focus up
+<kbd>Win</kbd>+<kbd>k</kbd> / <kbd>Win</kbd>-<kbd>Up</kbd> - change focus up
 
 <kbd>Win</kbd>+<kbd>l</kbd> / <kbd>Win</kbd>-<kbd>Right Arrow</kbd> - change focus right
 
