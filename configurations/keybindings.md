@@ -63,11 +63,9 @@ To adapt to other WMs / DEs this is not final, but can still be modified*
    - <kbd>↑</kbd> | <kbd>k</kbd> will shrink the windows height
    - <kbd>↓</kbd> | <kbd>j</kbd> will grow the windows height
 	
-- <kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> | <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> resize (shrink/grow width / height by 10x10 pixels)
+ - *Keeping **<kbd>Win</kbd>** pressed, allows resizing via mouse*
 
-- <kbd>Return</kbd>,<kbd>Escape</kbd>  - leave resize mode
-
- - **Keeping <kbd>Win</kbd> pressed, allows resizing via mouse**
+- **<kbd>Return</kbd>,<kbd>Escape</kbd>  - leave resize mode**
 
 ### Moving open windows
 <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>h</kbd> / <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>←</kbd> - move focused window left
