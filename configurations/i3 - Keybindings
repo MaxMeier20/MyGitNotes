@@ -1,0 +1,86 @@
+Keybindings
+
+# Modifier Chosen: <kbd>Win</kbd>
+
+#Control the system
+
+
+<kbd>Alt+<kbd>Ctrl+<kbd>r - Reboot
+<kbd>Alt+<kbd>Ctrl+<kbd>s - Suspend
+<kbd>Alt+<kbd>Ctrl+<kbd>x - Poweroff
+
+#i3 functionality
+
+##controling the wm
+<kbd>Win+<kbd>Shift+<kbd>q - reload i3 configuration file
+<kbd>Win+<kbd>Shift+<kbd>e - exit i3, go back to login manager
+<kbd>Win+<kbd>Shift+<kbd>r - restart i3 in place
+
+##predefined layouts
+<kbd>Win+<kbd>s - activate stacking layout
+<kbd>Win+<kbd>t - activate tabbed layout
+<kbd>Win+<kbd>n - activate split layout
+
+#Starting Programs
+<kbd>Ctrl+<kbd>Space - start launcher (synapse)
+<kbd>Win+<kbd>Return - start terminal (sakura)
+<kbd>Win+<kbd>Shift+<kbd>Space - start browser (firefox)
+<kbd>Win+<kbd>d - start dmenu (j4-dmenu-desktop)
+<kbd>Win+<kbd>e - start filemanager (pcmanfm)
+
+#Window ("container") modification
+
+##Changing / Closing windows
+<kbd>Win+<kbd>Shift+<kbd>c - kill active window
+<kbd>Win+<kbd>b - Split in horizontal orientation
+<kbd>Win+<kbd>v - Split in vertical orientation
+
+##Layout changes
+<kbd>Win+<kbd>Shift+<kbd>Space - Toggle floating / tiling 
+<kbd>Win+<kbd>f - toggle fullscreen
+<kbd>Win+<kbd>r - Enter resize mode
+     # Pressing left will shrink the window’s width.
+     # Pressing right will grow the window’s width.
+     # Pressing up will shrink the window’s height.
+     # Pressing down will grow the window’s height.
+	 # Keeping "Win" pressed, allows resizing via mouse
+
+	<kbd>h,<kbd>j,<kbd>k,<kbd>l - resize (shrink/grow width / height by 10x10 pixels)
+	<kbd>Left Arrow, <kbd>Down Arrow, <kbd>Up Arrow, <kbd>Right Arrow - (shrink/grow width / height by 10x10 pixels)
+	<kbd>Return,<kbd>Escape  - leave resize mode
+	 	
+##Moving open windows
+<kbd>Win+<kbd>Shift+<kbd>h / <kbd>Win+<kbd>Shift+<kbd>Left Arrow - move focused window left
+<kbd>Win+<kbd>Shift+<kbd>j / <kbd>Win+<kbd>Shift+<kbd>Down Arrow - move focused window down
+<kbd>Win+<kbd>Shift+<kbd>k / <kbd>Win+<kbd>Shift+<kbd>Up Arrow - move focused window up
+<kbd>Win+<kbd>Shift+<kbd>l / <kbd>Win+<kbd>Shift+<kbd>Right Arrow - move focused window right
+
+##Navigating open windows
+<kbd>Win+<kbd>h / Win+Left Arrow - change focus left
+<kbd>Win+<kbd>j / Win+Down Arrow - change focus down
+<kbd>Win+<kbd>k / Win-Up Arrow - change focus up
+<kbd>Win+<kbd>l / Win-Right Arrow - change focus right
+
+<kbd>Win+<kbd>a - focus parent container
+<kbd>Win+<kbd>Space - toggle focus between tiling floating
+
+#Workspace Modifications
+<kbd>Win+<kbd>y - move workspace to left output
+<kbd>Win+<kbd>x - move Workspace to right output
+<kbd>Win+<kbd>1[-10] - change to workspace
+<kbd>Win+<kbd><kbd>Shift+<kbd>1[-10] - move container to workspace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
