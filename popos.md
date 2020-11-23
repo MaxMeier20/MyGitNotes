@@ -23,4 +23,12 @@ If there is need to roll back the rollback:
 > echo 'blacklist amdgpu' | sudo tee /etc/modprobe.d/blacklist-amdgpu.conf
 > sudo update-initramfs -u -k all
 
-General Information and other methods are available [here](https://linuxconfig.org/amd-radeon-ubuntu-20-04-driver-installation)
+General Information and other methods are available [here](https://linuxconfig.org/amd-radeon-ubuntu-20-04-driver-installation) Here there is a way to update the free drivers:
+
+Install:
+> sudo add-apt-repository ppa:oibaf/graphics-drivers
+
+Remove:
+> sudo apt-get install ppa-purge
+> sudo ppa-purge ppa:oibaf/graphics-drivers
+
