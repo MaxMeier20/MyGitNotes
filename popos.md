@@ -22,3 +22,5 @@ If their is an error message roll back via:
 If there is need to roll back the rollback: 
 > echo 'blacklist amdgpu' | sudo tee /etc/modprobe.d/blacklist-amdgpu.conf
 > sudo update-initramfs -u -k all
+
+General Information and other methods are available [here](https://linuxconfig.org/amd-radeon-ubuntu-20-04-driver-installation)
